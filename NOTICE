@@ -1,0 +1,29 @@
+NOTICE — Third-party project, archived for reference
+=====================================================
+
+This repository is NOT original work of the repository owner (waleedsworld).
+It is a preserved copy of an existing open-source project by another author,
+kept privately for study and archival purposes only.
+
+Original project
+----------------
+  Name:      Run Chicken Run (js13kGames 2017 entry)
+  Author:    Martin Hentschel  (GitHub: @hemartin / @hemasail)
+  Upstream:  https://github.com/hemartin/runchickenrun-js13k
+  License:   MIT License, Copyright (c) 2017 Martin Hentschel (see LICENSE)
+
+Physics engine
+--------------
+  physicsplain — a 2D JavaScript physics library, also by Martin Hentschel.
+  https://github.com/hemartin/physicsplain
+
+Attribution
+-----------
+All game code, design, and assets are the work of Martin Hentschel and remain
+under his copyright. Every source file in js/ carries his @author header, and
+the original commit history (authored by Martin Hentschel, 2017) is retained
+unchanged in this repository. The repository owner claims no authorship over
+this software and has made no functional changes to the game.
+
+Only this NOTICE and an honest, rewritten README have been added on top of the
+original history for archival clarity.
